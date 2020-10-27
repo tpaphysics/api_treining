@@ -20,3 +20,8 @@
 - [x] Crie o diretório ./src/models/Products.js e defina um schema para seu objeto.
 - [x] Instale a lib require-dir.
 - [x] Agora crie um objeto fake e import para o banco de dados quando houver requisição no endereço http://localhost:7001.
+
+## 5)
+- [x] Crie o diretporio ./src/routes.js.
+- [x] Faça com que todos as rotas sejam redirecinandas para o arquivo routes.js
+ 
