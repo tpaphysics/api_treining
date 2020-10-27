@@ -15,3 +15,8 @@
 - [x] Instale o docker e baixe a imagem do mongo. 
 - [x] Suba um container com nome mogo trabalhando na porta 27017.
 - [x] Instale o mongoose e connect ao banco de dados. Baixe o studio 3T e o insomnia.
+
+## 4) 
+- [x] Crie o diretório ./src/models/Products.js e defina um schema para seu objeto.
+- [x] Instale a lib require-dir.
+- [x] Agora crie um objeto fake e import para o banco de dados quando houver requisição no endereço http://localhost:7001.
