@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const requireDir = require('require-dir');
 
 const server = express();
+server.use(express.json());
 
 const dbase = 'node-api';
 mongoose.connect(`mongodb://localhost:27017/${dbase}`, { useUnifiedTopology: true, useNewUrlParser: true});

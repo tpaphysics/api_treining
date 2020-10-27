@@ -1,5 +1,5 @@
 
-# Exercício para criação APIs Rest
+# Exercício para criação REST APIs
 
 ### 1)
 
@@ -9,7 +9,7 @@
 
 ### 2)
 - [x] Instale o nodemon.
-- [x] Configure o script no package.json "dev":" nodemon server.js &"
+- [x] Configure o script no package.json "dev":" nodemon server.js &".
 
 ## 3)
 - [x] Instale o docker e baixe a imagem do mongo. 
@@ -19,13 +19,16 @@
 ## 4) 
 - [x] Crie o diretório ./src/models/Products.js e defina um schema para seu objeto.
 - [x] Instale a lib require-dir.
-- [x] Agora crie um objeto fake e import para o banco de dados quando houver requisição no endereço http://localhost:7001.
+- [x] Crie um objeto fake e import para o banco de dados quando houver requisição no endereço http://localhost:7001.
 
 ## 5)
-- [x] Crie o diretporio ./src/routes.js.
-- [x] Faça com que todos as rotas sejam redirecinandas para o arquivo routes.js
+- [x] Crie o diretório ./src/routes.js.
+- [x] Agora passe a criar suas rotas neste arquivo.
  
- ## 6) 
- - [x] Dentro do modelo Model View Controller (MVC), crie o diretório ./src/controller/ProductControllers.
- - [x] Retire a lógica do arquivo de rotas.
- - [x] Exiba na rota localhost:7001/api/products, os objetos contidos no banco de dados.
+## 6) 
+- [x] Dentro do modelo Model View Controller (MVC), crie o diretório ./src/controller/ProductControllers.
+- [x] Retire a lógica do arquivo de rotas.
+- [x] Quando houver um request em localhost:7001/api/products, exiba os objetos contidos no banco de dados.
+
+## 7)
+- [x] Usando o método post, crie uma nova rota para inserir novos elementos no banco de dados. Para isso utilize o insomnia.
