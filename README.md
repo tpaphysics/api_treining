@@ -10,3 +10,8 @@
 ### 2)
 - [x] Instale o nodemon.
 - [x] Configure o script no package.json "dev":" nodemon server.js &"
+
+## 3)
+- [x] Instale o docker e baixe a imagem do mongo. 
+- [x] Suba um container com nome mogo trabalhando na porta 27017.
+- [x] Instale o mongoose e connect ao banco de dados. Baixe o studio 3T e o insomnia.
