@@ -25,3 +25,7 @@
 - [x] Crie o diretporio ./src/routes.js.
 - [x] Faça com que todos as rotas sejam redirecinandas para o arquivo routes.js
  
+ ## 6) 
+ - [x] Dentro do modelo Model View Controller (MVC), crie o diretório ./src/controller/ProductControllers.
+ - [x] Retire a lógica do arquivo de rotas.
+ - [x] Exiba na rota localhost:7001/api/products, os objetos contidos no banco de dados.
