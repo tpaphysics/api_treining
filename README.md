@@ -38,6 +38,7 @@
 1. show ( Buscar um produto espícifico pelo ID no banco de dados )
 2. update ( Atualização de um produto no banco de dados  )
 3. destroy ( Remover item do banco de dados)
+- [x] Use o insomnia para testar as rotas.
 
 ## 9)
 - [x] Instale o plugin mongoose-paginate-v2
