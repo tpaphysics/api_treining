@@ -44,5 +44,5 @@
 - [x] Crie o sistema de paginação para mostrar 10 produtos por página.
 
 ## 10) 
-- [x] Pesquise o módulo CORS.
-- [x] Configure o CORS em sua API.
+- [x] Pesquise sobre módulo CORS.
+- [x] Instale o CORS e configure ele na sua API.
