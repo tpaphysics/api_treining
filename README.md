@@ -34,7 +34,15 @@
 - [x] Usando o método post, crie uma nova rota para inserir novos elementos no banco de dados. Para isso utilize o insomnia.
 
 ## 8) 
-- [x] Crie no arquivo ./src/controllers/ProductController.js os métodos:
+- [x] CRUD Crie no arquivo ./src/controllers/ProductController.js os métodos:
 1. show ( Buscar um produto espícifico pelo ID no banco de dados )
 2. update ( Atualização de um produto no banco de dados  )
 3. destroy ( Remover item do banco de dados)
+
+## 9)
+- [x] Instale o plugin mongoose-paginate-v2
+- [x] Crie o sistema de paginação para mostrar 10 produtos por página.
+
+## 10) 
+- [x] Pesquise o módulo CORS.
+- [x] Configure o CORS em sua API.
