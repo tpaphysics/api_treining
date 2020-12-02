@@ -1,5 +1,5 @@
 
-# Exercício para criação REST APIs
+# Exercício para criação APIs
 
 ### 1)
 
